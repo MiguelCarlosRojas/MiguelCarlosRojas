@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Miguel A. Carlos Rojas] 𓏲🈦(www.linkedin.com/in/miguelacarlos)
+### Hi there 👋 I'm [Miguel A. Carlos Rojas](www.linkedin.com/in/miguelacarlos)
 > Software Engineer at [SoftNEP](https://softnep.com)
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
