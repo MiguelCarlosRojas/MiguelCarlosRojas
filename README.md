@@ -38,7 +38,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/miguelacarlos/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.miguelcarlos.com.np-blue?style=flat&logo=google-chrome"></a>
+<a href="https://miguelcarlosrojas.github.io/02-todo-list/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.miguelcarlosrojas.github.io.np-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/miguelacarlos/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@MiguelA.CarlosRojas-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:miguel.carlos@vallegrande.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-miguel.carlos@vallegrande.edu.pe-blue?style=flat&logo=gmail"></a>
 </p>
