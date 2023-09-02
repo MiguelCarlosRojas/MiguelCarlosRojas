@@ -32,8 +32,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/MiguelCarlosRojas/01-Hello-World)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/MiguelCarlosRojas/02-todo-list)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCarlosRojas&repo=01-Hello-World&show_owner=true)](https://github.com/MiguelCarlosRojas/01-Hello-World)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCarlosRojas&repo=02-todo-list&show_owner=true)](https://github.com/MiguelCarlosRojas/02-todo-list)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
