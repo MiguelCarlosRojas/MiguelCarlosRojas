@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Miguel A. Carlos Rojas](www.linkedin.com/in/miguelacarlos)
+### Hi there 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelacarlos/)
 > Software Engineer at [Divinex](https://vg-web-divinex.vercel.app/)
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
