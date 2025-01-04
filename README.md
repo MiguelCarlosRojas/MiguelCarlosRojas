@@ -10,9 +10,9 @@
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+I’m a Mid-level Web Developer 🧑🏻‍💻 skilled in building engaging web experiences from concept to deployment. 🚀 Proficient in writing well-structured, testable, and efficient code using modern web development practices. 💻 A fast learner, hard worker, and collaborative team player 🤝, I excel in various scripting languages and web tools. 
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+🛠️ My strengths include excellent design 🎨 and coding skills, with a talent for turning ideas and requirements into exciting, user-friendly online applications. 🌟 Let’s build something amazing!
 </p>
 </div>
 
