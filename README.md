@@ -23,53 +23,29 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 ### 🛠️ Skills & Expertise
 
-#### Frameworks & Libraries
-<div align="left">
-  <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="50"></a>
-  <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50"></a>
-  <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="50"></a>
-  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="50"></a>
-  <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50"></a>
-</div>
+#### Frameworks & Libraries 🌐
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="40">](https://angular.io/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40">](https://react.dev/) | [<img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="40">](https://vitejs.dev/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40">](https://getbootstrap.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40">](https://tailwindcss.com/) |
+|---|---|---|---|---|
 
-#### Programming Languages
-<div align="left">
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/typescript/typescript.png" alt="TypeScript" width="50"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/css/css.png" alt="CSS" width="50"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"></a>
-</div>
+#### Programming Languages 🌐
+| [<img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/typescript/typescript.png" alt="TypeScript" width="40">](https://www.typescriptlang.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/css/css.png" alt="CSS" width="40">](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+|---|---|---|---|
 
-#### Databases
-<div align="left">
-  <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL Server Management Studio" width="50"></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="50"></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="50"></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" width="50"></a>
-</div>
+#### Databases 💾
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL Server Management Studio" width="40">](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="40">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="40">](https://www.postgresql.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" width="40">](https://www.mongodb.com/) |
+|---|---|---|---|
 
-#### Tools & Technologies
-<div align="left">
-  <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" width="50"></a>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="50"></a>
-  <a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="50"></a>
-  <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="VSCode" width="50"></a>
-  <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="50"></a>
-</div>
+#### Tools & Technologies 🛠️
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="40">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40">](https://git-scm.com/) | [<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40">](https://www.jetbrains.com/idea/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="VSCode" width="40">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40">](https://ubuntu.com/) |
+|---|---|---|---|---|
 
 ---
 
 ### 📊 GitHub Stats
 
 #### Profile Stats & Most Used Languages
-<div align="left">
-  <a href="https://github.com/MiguelCarlosRojas">
-    <img src="https://github-readme-stats.vercel.app/api?username=MiguelCarlosRojas&show_icons=true&count_private=true&theme=dark" alt="Profile Stats" width="500">
-  </a>
-  <a href="https://github.com/MiguelCarlosRojas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCarlosRojas&layout=compact&theme=dark" alt="Most Used Languages" width="380">
-  </a>
-</div>
+| [<img src="https://github-readme-stats.vercel.app/api?username=MiguelCarlosRojas&show_icons=true&count_private=true&theme=dark" alt="Profile Stats" width="500">](https://github.com/MiguelCarlosRojas) | [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCarlosRojas&layout=compact&theme=dark" alt="Most Used Languages" width="380">](https://github.com/MiguelCarlosRojas) |
+|---|---|
 
 #### Weekly Activity
 <div align="center">
@@ -80,14 +56,8 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 ### 🏆 Featured Projects
 
-<div align="left">
-  <a href="https://github.com/MiguelCarlosRojas/NexCoin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelCarlosRojas&repo=NexCoin&show_owner=true&theme=dark" alt="NexCoin Project">
-  </a>
-  <a href="https://github.com/MiguelCarlosRojas/MetaMatrixWeb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelCarlosRojas&repo=MetaMatrixWeb&show_owner=true&theme=dark" alt="MetaMatrixWeb Project">
-  </a>
-</div>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCarlosRojas&repo=NexCoin&show_owner=true&theme=dark)](https://github.com/MiguelCarlosRojas/NexCoin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MiguelCarlosRojas&repo=MetaMatrixWeb&show_owner=true&theme=dark)](https://github.com/MiguelCarlosRojas/MetaMatrixWeb)
 
 ---
 
