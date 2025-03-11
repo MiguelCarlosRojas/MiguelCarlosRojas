@@ -3,7 +3,7 @@ name: Update Quote
 on:
   workflow_dispatch:  # Manually trigger the workflow
   schedule:
-    - cron: '30 22 * * *'  # Schedule daily at 22:30 UTC
+    - cron: '40 3 * * *'  # Schedule daily at 22:40 Peru time (03:40 UTC)
 
 jobs:
   update-readme:
@@ -29,5 +29,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add README.md
-          git -c user.name='Miguel A. Carlos Rojas' -c user.email='isakiangel6@gmail.com' commit -m "Initial commit" -a
+          git -c user.name='MiguelCarlosRojas' -c user.email='isakiangel6@gmail.com' commit -m "Initial commit" -a
           git push
