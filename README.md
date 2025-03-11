@@ -47,7 +47,7 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 ###  🏆 Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MiguelCarlosRojas&theme=radical&title=MultiLanguage,Stars,Commits,Repositories,Experience,Followers,PullRequest,Issues)](https://github.com/MiguelCarlosRojas)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MiguelCarlosRojas&theme=radical&title=MultiLanguage,Stars,Commits,Repositories,Experience,Followers,PullRequest,Issues,Reviews)](https://github.com/MiguelCarlosRojas)
 
 ---
 
