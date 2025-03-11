@@ -43,7 +43,7 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" width="40">](https://firebase.google.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40">](https://git-scm.com/) | [<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40">](https://www.jetbrains.com/idea/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="VSCode" width="40">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40">](https://ubuntu.com/) | [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40">](https://www.postman.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="40">](https://www.docker.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40">](https://spring.io/) | [<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_maven.svg" alt="Maven" width="40">](https://maven.apache.org/) |
 |---|---|---|---|---|---|---|---|---|
 
-
+---
 
 ### 📊 GitHub Stats
 
@@ -54,7 +54,6 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 #### Stream Stats & Top Contributions
 | [<img src="https://streak-stats.demolab.com?user=MiguelCarlosRojas&theme=dark&background=0,000000,1e1e1e&fire=eb5454&ring=eb5454&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff" alt="Streak Stats" width="550">](https://github.com/MiguelCarlosRojas) | [<img src="https://github-contributor-stats.vercel.app/api?username=MiguelCarlosRojas&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,1e1e1e&title_color=ffffff&text_color=ffffff" alt="Top Contributions" width="600">](https://github.com/MiguelCarlosRojas) |
 |---|---|
-
 
 #### Weekly Activity
 <div align="center">
