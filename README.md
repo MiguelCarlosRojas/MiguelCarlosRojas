@@ -51,6 +51,11 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 | [<img src="https://github-readme-stats.vercel.app/api?username=MiguelCarlosRojas&show_icons=true&count_private=true&theme=dark" alt="Profile Stats" width="500">](https://github.com/MiguelCarlosRojas) | [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCarlosRojas&layout=compact&theme=dark" alt="Most Used Languages" width="380">](https://github.com/MiguelCarlosRojas) |
 |---|---|
 
+#### Stream Stats & Top Contributions
+| [<img src="https://streak-stats.demolab.com?user=MiguelCarlosRojas&theme=dark&background=0,000000,1e1e1e&fire=eb5454&ring=eb5454&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff" alt="Streak Stats" width="550">](https://github.com/MiguelCarlosRojas) | [<img src="https://github-contributor-stats.vercel.app/api?username=MiguelCarlosRojas&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,1e1e1e&title_color=ffffff&text_color=ffffff" alt="Top Contributions" width="600">](https://github.com/MiguelCarlosRojas) |
+|---|---|
+
+
 #### Weekly Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelCarlosRojas&theme=react-dark" alt="Miguel Carlos Rojas GitHub Activity">
