@@ -10,9 +10,6 @@
 
 Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelacarlos/), a passionate **Full Stack Developer** with expertise in building robust, scalable, and user-friendly web applications. Currently working as a **Software Engineer** at [Divinex](https://vg-web-divinex.vercel.app/).
 
-<!--STARTS_HERE_QUOTE_CARD-->
-<!--ENDS_HERE_QUOTE_CARD-->
-
 🚀 I specialize in transforming ideas into functional, efficient, and visually appealing web solutions. My strengths include:
 
 - Writing clean, maintainable, and testable code.
@@ -84,3 +81,9 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 - 📚 Always eager to learn new technologies and frameworks.
 - 🌍 Passionate about creating accessible and inclusive web experiences.
 - 🚀 Focused on delivering high-quality software that makes an impact.
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman"e=Not%20all%20readers%20are%20leaders%2C%20but%20all%20leaders%20are%20readers.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
