@@ -23,25 +23,110 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 ### 🛠️ Skills & Expertise
 
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
+  <img align="right" style="width: 40%; max-width: 200px; height: auto;" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 #### Frameworks & Libraries 🌐
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="40">](https://angular.io/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40">](https://react.dev/) | [<img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="40">](https://vitejs.dev/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40">](https://getbootstrap.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40">](https://tailwindcss.com/) |
-|---|---|---|---|---|
+<div style="overflow-x: auto;">
+  <table style="width: 100%; border-collapse: collapse; margin: 10px 0;">
+    <tr style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" style="width: 40px; height: auto;"></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 #### Programming Languages 🌐
-| [<img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/typescript/typescript.png" alt="TypeScript" width="40">](https://www.typescriptlang.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/css/css.png" alt="CSS" width="40">](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-|---|---|---|---|
+<div style="overflow-x: auto;">
+  <table style="width: 100%; border-collapse: collapse; margin: 10px 0;">
+    <tr style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/typescript/typescript.png" alt="TypeScript" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/css/css.png" alt="CSS" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="width: 40px; height: auto;"></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 #### Databases 💾
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server Management Studio" width="40">](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="40">](https://www.postgresql.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" width="40">](https://www.mongodb.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40">](https://www.oracle.com/database/) |
-|---|---|---|---|---|
+<div style="overflow-x: auto;">
+  <table style="width: 100%; border-collapse: collapse; margin: 10px 0;">
+    <tr style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server Management Studio" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://www.oracle.com/database/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" style="width: 40px; height: auto;"></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 #### Tools & Technologies 🛠️
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" width="40">](https://firebase.google.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40">](https://git-scm.com/) | [<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40">](https://www.jetbrains.com/idea/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="VSCode" width="40">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40">](https://ubuntu.com/) | [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40">](https://www.postman.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="40">](https://www.docker.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40">](https://spring.io/) | [<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_maven.svg" alt="Maven" width="40">](https://maven.apache.org/) |
-|---|---|---|---|---|---|---|---|---|
+<div style="overflow-x: auto;">
+  <table style="width: 100%; border-collapse: collapse; margin: 10px 0;">
+    <tr style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="VSCode" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://maven.apache.org/"><img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_maven.svg" alt="Maven" style="width: 40px; height: auto;"></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
