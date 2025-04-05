@@ -193,11 +193,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=It%20always%20seems%20impossible%20until%20it%E2%80%99s%20done.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Franklin%20D.%20Roosevelt&quote=The%20only%20limit%20to%20our%20realization%20of%20tomorrow%20will%20be%20our%20doubts%20of%20today.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
