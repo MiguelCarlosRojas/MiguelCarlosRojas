@@ -222,11 +222,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Juan%208%3A32%20(Biblia)&quote=La%20verdad%20os%20har%C3%A1%20libres.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vidal%20Sassoon&quote=El%20%C3%BAnico%20lugar%20donde%20el%20%C3%A9xito%20viene%20antes%20que%20el%20trabajo%20es%20en%20el%20diccionario.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
