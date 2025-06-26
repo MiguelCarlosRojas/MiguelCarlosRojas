@@ -275,11 +275,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gabriel%20Garc%C3%ADa%20M%C3%A1rquez&quote=La%20vida%20es%20un%20misterio%20que%20hay%20que%20vivir%2C%20no%20un%20problema%20que%20hay%20que%20resolver.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Gretzky&quote=You%20miss%20100%25%20of%20the%20shots%20you%20don%E2%80%99t%20take.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
