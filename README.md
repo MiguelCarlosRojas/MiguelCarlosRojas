@@ -310,11 +310,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Disney&quote=The%20way%20to%20get%20started%20is%20to%20quit%20talking%20and%20begin%20doing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=The%20greatest%20glory%20in%20living%20lies%20not%20in%20never%20falling%2C%20but%20in%20rising%20every%20time%20we%20fall.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
