@@ -38,7 +38,7 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
         <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" style="width: 40px; height: auto;"></a>
       </td>
       <td style="text-align: center; padding: 10px; min-width: 60px;">
-        <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" style="width: 40px; height: auto;"></a>
+        <a href="https://vitejs.dev/"><img src="https://vite.dev/logo.svg" alt="Vite" style="width: 40px; height: auto;"></a>
       </td>
       <td style="text-align: center; padding: 10px; min-width: 60px;">
         <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" style="width: 40px; height: auto;"></a>
