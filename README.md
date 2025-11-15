@@ -417,11 +417,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=What%20you%20get%20by%20achieving%20your%20goals%20is%20not%20as%20important%20as%20what%20you%20become%20by%20achieving%20your%20goals.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Disney&quote=The%20way%20to%20get%20started%20is%20to%20quit%20talking%20and%20begin%20doing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
