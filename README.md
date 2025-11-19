@@ -421,11 +421,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucio&quote=El%20hombre%20que%20mueve%20monta%C3%B1as%20empieza%20cargando%20peque%C3%B1as%20piedras.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gabriel%20Garc%C3%ADa%20M%C3%A1rquez&quote=La%20vida%20es%20un%20misterio%20que%20hay%20que%20vivir%2C%20no%20un%20problema%20que%20hay%20que%20resolver.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
