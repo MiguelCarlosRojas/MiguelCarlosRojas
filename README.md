@@ -438,11 +438,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Proverbio%20Espa%C3%B1ol&quote=El%20que%20no%20arriesga%20no%20gana.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Proverbio%20Popular&quote=El%20que%20busca%2C%20encuentra.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
