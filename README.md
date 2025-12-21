@@ -8,7 +8,7 @@
 
 ### 🌟 About Me
 
-Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelacarlos/), a passionate **Full Stack Developer** with expertise in building robust, scalable, and user-friendly web applications. Currently working as a **Software Engineer** at [Medex](https://demo.medex.website).
+Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelacarlos/), a passionate **Full Stack Developer** with expertise in building robust, scalable, and user-friendly web applications. Currently working as a **Software Engineer** at [Medex](https://demo.testmedex.xyz).
 
 🚀 I specialize in transforming ideas into functional, efficient, and visually appealing web solutions. My strengths include:
 
