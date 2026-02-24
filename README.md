@@ -518,11 +518,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=Success%20is%20not%20final%2C%20failure%20is%20not%20fatal%3A%20It%20is%20the%20courage%20to%20continue%20that%20counts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Waldo%20Emerson&quote=To%20be%20yourself%20in%20a%20world%20that%20is%20constantly%20trying%20to%20make%20you%20something%20else%20is%20the%20greatest%20accomplishment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
