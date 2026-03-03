@@ -525,11 +525,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jean-Jacques%20Rousseau&quote=La%20paciencia%20es%20amarga%2C%20pero%20sus%20frutos%20son%20dulces.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=La%20educaci%C3%B3n%20es%20el%20arma%20m%C3%A1s%20poderosa%20que%20puedes%20usar%20para%20cambiar%20el%20mundo.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
