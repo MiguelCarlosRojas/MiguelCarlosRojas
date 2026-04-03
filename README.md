@@ -32,6 +32,9 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
   <table style="width: 100%; border-collapse: collapse; margin: 10px 0;">
     <tr style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <td style="text-align: center; padding: 10px; min-width: 60px;">
+        <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" style="width: 40px; height: auto;"></a>
+      </td>
+      <td style="text-align: center; padding: 10px; min-width: 60px;">
         <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" style="width: 40px; height: auto;"></a>
       </td>
       <td style="text-align: center; padding: 10px; min-width: 60px;">
