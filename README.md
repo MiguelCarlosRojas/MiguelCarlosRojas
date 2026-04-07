@@ -563,11 +563,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tim%20Ferriss&quote=Conc%C3%A9ntrate%20en%20resultados%2C%20no%20en%20estar%20ocupado.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=An%C3%B3nimo&quote=Los%20buenos%20programadores%20usan%20su%20cerebro%2C%20pero%20las%20buenas%20directrices%20nos%20ahorran%20usarlo%20cada%20vez.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
