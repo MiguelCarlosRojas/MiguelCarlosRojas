@@ -571,11 +571,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Linus%20Torvalds&quote=La%20programaci%C3%B3n%20es%20como%20el%20sexo%3A%20es%20mejor%20cuando%20es%20gratis.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=An%C3%B3nimo&quote=La%20programaci%C3%B3n%20es%20una%20habilidad%20que%20se%20adquiere%20con%20pr%C3%A1ctica%20y%20ejemplo%2C%20no%20solo%20con%20libros.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
