@@ -576,11 +576,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tim%20O'Reilly&quote=La%20programaci%C3%B3n%20es%20c%C3%B3mo%20hablamos%20con%20las%20m%C3%A1quinas%20que%20cada%20vez%20m%C3%A1s%20forman%20parte%20de%20nuestras%20vidas.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bill%20Gates&quote=Mide%20progreso%20por%20valor%20entregado%2C%20no%20por%20l%C3%ADneas%20de%20c%C3%B3digo.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
