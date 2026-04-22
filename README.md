@@ -578,11 +578,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=N.%20Neal%20Ford&quote=No%20amount%20of%20elegant%20programming%20or%20technology%20will%20solve%20a%20problem%20if%20it%20is%20improperly%20specified%20or%20understood%20to%20begin%20with.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Donald%20Knuth&quote=La%20mejor%20optimizaci%C3%B3n%20es%20no%20necesitarla.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
