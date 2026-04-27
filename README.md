@@ -583,11 +583,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=An%C3%B3nimo&quote=Escribe%20c%C3%B3digo%20hoy%20pensando%20en%20quien%20lo%20leer%C3%A1%20ma%C3%B1ana.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bjarne%20Stroustrup&quote=El%20peligro%20de%20las%20computadoras%20no%20es%20que%20se%20vuelvan%20tan%20inteligentes%20como%20los%20humanos%2C%20sino%20que%20acordemos%20encontrarnos%20a%20medio%20camino.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
