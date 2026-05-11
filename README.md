@@ -597,11 +597,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=An%C3%B3nimo&quote=El%20software%20es%20como%20construir%20catedrales%3A%20primero%20construimos%2C%20luego%20rezamos.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Donald%20Knuth&quote=Explica%20a%20una%20computadora%20para%20entender%20de%20verdad.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
