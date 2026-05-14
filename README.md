@@ -600,11 +600,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20McConnell&quote=La%20mejor%20documentaci%C3%B3n%20es%20el%20c%C3%B3digo%20mismo%20cuando%20est%C3%A1%20bien%20escrito.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Linus%20Torvalds&quote=Given%20enough%20eyeballs%2C%20all%20bugs%20are%20shallow.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
