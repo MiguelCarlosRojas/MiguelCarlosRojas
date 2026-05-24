@@ -610,11 +610,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=C.A.R.%20Hoare&quote=There%20are%20two%20ways%20of%20constructing%20a%20software%20design%3A%20One%20way%20is%20to%20make%20it%20so%20simple%20that%20there%20are%20obviously%20no%20deficiencies%2C%20and%20the%20other%20way%20is%20to%20make%20it%20so%20complicated%20that%20there%20are%20no%20obvious%20deficiencies.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ken%20Thompson&quote=When%20in%20doubt%2C%20use%20brute%20force.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
