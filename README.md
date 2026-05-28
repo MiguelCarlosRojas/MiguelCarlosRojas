@@ -614,11 +614,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marshall%20McLuhan&quote=Si%20funciona%2C%20probablemente%20ya%20est%C3%A9%20viejo.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Edsger%20W.%20Dijkstra&quote=If%20debugging%20is%20the%20process%20of%20removing%20software%20bugs%2C%20then%20programming%20must%20be%20the%20process%20of%20putting%20them%20in.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
