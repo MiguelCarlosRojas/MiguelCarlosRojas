@@ -616,11 +616,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ken%20Thompson&quote=When%20in%20doubt%2C%20use%20brute%20force.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ron%20Jeffries&quote=El%20c%C3%B3digo%20nunca%20miente%2C%20los%20comentarios%20a%20veces%20s%C3%AD.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
