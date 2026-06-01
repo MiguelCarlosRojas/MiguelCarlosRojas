@@ -618,11 +618,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Antoine%20de%20Saint-Exup%C3%A9ry&quote=La%20perfecci%C3%B3n%20es%20cuando%20no%20queda%20nada%20por%20quitar.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20McConnell&quote=El%20buen%20c%C3%B3digo%20es%20su%20propia%20mejor%20documentaci%C3%B3n.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
