@@ -619,11 +619,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20McConnell&quote=El%20buen%20c%C3%B3digo%20es%20su%20propia%20mejor%20documentaci%C3%B3n.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=An%C3%B3nimo&quote=Los%20buenos%20desarrolladores%20escriben%20buen%20c%C3%B3digo.%20Los%20grandes%20reutilizan%20buen%20c%C3%B3digo.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
