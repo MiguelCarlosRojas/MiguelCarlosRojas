@@ -627,11 +627,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tim%20Ferriss&quote=Focus%20on%20being%20productive%20instead%20of%20busy.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Kay&quote=Un%20lenguaje%20de%20programaci%C3%B3n%20sirve%20para%20pensar%20en%20programas%2C%20no%20para%20expresar%20programas%20que%20ya%20has%20pensado.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
