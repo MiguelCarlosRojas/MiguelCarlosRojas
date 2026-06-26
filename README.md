@@ -643,11 +643,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bill%20Gates&quote=Mide%20progreso%20por%20valor%20entregado%2C%20no%20por%20l%C3%ADneas%20de%20c%C3%B3digo.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Kay&quote=The%20most%20disastrous%20thing%20that%20you%20can%20ever%20learn%20is%20your%20first%20programming%20language.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
