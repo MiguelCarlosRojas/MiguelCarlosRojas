@@ -645,11 +645,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Linus%20Torvalds&quote=Los%20buenos%20programadores%20se%20preocupan%20por%20las%20estructuras%20de%20datos%20y%20sus%20relaciones.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jeff%20Hammerbacher&quote=The%20best%20minds%20of%20my%20generation%20are%20thinking%20about%20how%20to%20make%20people%20click%20ads.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
