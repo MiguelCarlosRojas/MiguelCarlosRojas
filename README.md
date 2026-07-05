@@ -652,11 +652,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leonardo%20da%20Vinci&quote=El%20aprendizaje%20constante%20es%20clave%20en%20tecnolog%C3%ADa.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rick%20Cook&quote=Los%20programadores%20compiten%20con%20el%20Universo%20para%20crear%20programas%20a%20prueba%20de%20idiotas%2C%20mientras%20el%20Universo%20crea%20idiotas%20mejores.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
