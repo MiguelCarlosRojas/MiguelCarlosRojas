@@ -672,11 +672,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=An%C3%B3nimo&quote=El%20c%C3%B3digo%20es%20poes%C3%ADa%20cuando%20est%C3%A1%20bien%20escrito.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bill%20Gates&quote=Medir%20el%20progreso%20de%20la%20programaci%C3%B3n%20por%20l%C3%ADneas%20de%20c%C3%B3digo%20es%20como%20medir%20el%20progreso%20de%20la%20construcci%C3%B3n%20de%20un%20avi%C3%B3n%20por%20su%20peso.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
