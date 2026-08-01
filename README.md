@@ -679,11 +679,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=An%C3%B3nimo&quote=La%20depuraci%C3%B3n%20es%20como%20ser%20detective%20en%20una%20pel%C3%ADcula%20de%20crimen%20donde%20t%C3%BA%20eres%20el%20criminal.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20C.%20Martin&quote=La%20verdad%20est%C3%A1%20en%20el%20c%C3%B3digo.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
