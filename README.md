@@ -693,11 +693,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=An%C3%B3nimo&quote=Resuelve%20problemas%2C%20no%20solo%20escribas%20c%C3%B3digo.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Donald%20Knuth&quote=La%20programaci%C3%B3n%20es%20el%20arte%20de%20decirle%20a%20otro%20humano%20lo%20que%20quieres%20que%20haga%20la%20computadora.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
