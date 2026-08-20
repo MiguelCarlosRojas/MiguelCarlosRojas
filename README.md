@@ -698,11 +698,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Fuchs&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Cory%20House&quote=El%20c%C3%B3digo%20es%20como%20un%20chiste.%20Si%20tienes%20que%20explicarlo%2C%20es%20malo.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
