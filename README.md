@@ -707,11 +707,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Weiser&quote=Las%20tecnolog%C3%ADas%20m%C3%A1s%20profundas%20son%20aquellas%20que%20desaparecen.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chris%20Pine&quote=Programming%20isn't%20about%20what%20you%20know%3B%20it's%20about%20what%20you%20can%20figure%20out.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
