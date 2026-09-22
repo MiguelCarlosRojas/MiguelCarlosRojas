@@ -160,8 +160,10 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 ---
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=An%C3%B3nimo&quote=Las%20computadoras%20son%20r%C3%A1pidas%2C%20los%20programadores%20las%20ralentizan.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Daily quote" />
+    <img src="https://readme-daily-quotes.vercel.app/api?author=C.A.R.%20Hoare&quote=Simple%20o%20tan%20complejo%20que%20parece%20simple.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
