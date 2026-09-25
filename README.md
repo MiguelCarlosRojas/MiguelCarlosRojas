@@ -163,11 +163,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Kernighan&quote=Controlar%20la%20complejidad%20es%20la%20esencia%20de%20la%20programaci%C3%B3n.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kent%20Beck&quote=Primero%20haz%20que%20funcione%2C%20luego%20haz%20que%20est%C3%A9%20bien%2C%20luego%20haz%20que%20sea%20r%C3%A1pido.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
