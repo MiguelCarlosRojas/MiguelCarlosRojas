@@ -184,11 +184,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bill%20Gates&quote=Tus%20clientes%20m%C3%A1s%20infelices%20son%20tu%20mayor%20fuente%20de%20aprendizaje.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chris%20Pine&quote=La%20programaci%C3%B3n%20no%20trata%20de%20lo%20que%20sabes%2C%20sino%20de%20lo%20que%20puedes%20descubrir.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
