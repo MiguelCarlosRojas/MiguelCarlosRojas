@@ -185,11 +185,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chris%20Pine&quote=La%20programaci%C3%B3n%20no%20trata%20de%20lo%20que%20sabes%2C%20sino%20de%20lo%20que%20puedes%20descubrir.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Rick%20Cook&quote=La%20programaci%C3%B3n%20hoy%20es%20una%20carrera%20entre%20ingenieros%20y%20el%20Universo%20creando%20idiotas.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
