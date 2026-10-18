@@ -186,11 +186,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Rick%20Cook&quote=La%20programaci%C3%B3n%20hoy%20es%20una%20carrera%20entre%20ingenieros%20y%20el%20Universo%20creando%20idiotas.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seymour%20Cray&quote=El%20problema%20con%20los%20programadores%20es%20que%20nunca%20sabes%20lo%20que%20est%C3%A1n%20haciendo%20hasta%20que%20es%20demasiado%20tarde.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
