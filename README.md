@@ -187,11 +187,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seymour%20Cray&quote=El%20problema%20con%20los%20programadores%20es%20que%20nunca%20sabes%20lo%20que%20est%C3%A1n%20haciendo%20hasta%20que%20es%20demasiado%20tarde.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=W.%20Edwards%20Deming&quote=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
