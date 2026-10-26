@@ -194,11 +194,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=An%C3%B3nimo&quote=La%20programaci%C3%B3n%20es%20una%20habilidad%20que%20se%20adquiere%20con%20pr%C3%A1ctica%20y%20ejemplo%2C%20no%20solo%20con%20libros.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Gibson&quote=The%20future%20is%20already%20here%20%E2%80%94%20it's%20just%20not%20very%20evenly%20distributed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
