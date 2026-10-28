@@ -196,11 +196,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=An%C3%B3nimo&quote=Las%20computadoras%20son%20r%C3%A1pidas%2C%20los%20programadores%20las%20ralentizan.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seymour%20Cray&quote=The%20trouble%20with%20programmers%20is%20that%20you%20can%20never%20tell%20what%20a%20programmer%20is%20doing%20until%20it's%20too%20late.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
