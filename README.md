@@ -198,11 +198,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tim%20Ferriss&quote=Conc%C3%A9ntrate%20en%20resultados%2C%20no%20en%20estar%20ocupado.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Anonymous&quote=Every%20great%20developer%20you%20know%20got%20there%20by%20solving%20problems%20they%20were%20unqualified%20to%20solve%20until%20they%20actually%20did%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
