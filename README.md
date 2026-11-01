@@ -200,11 +200,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Kernighan&quote=Controlar%20la%20complejidad%20es%20la%20esencia%20de%20la%20programaci%C3%B3n.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=An%C3%B3nimo&quote=Todo%20gran%20desarrollador%20lleg%C3%B3%20all%C3%AD%20resolviendo%20problemas%20para%20los%20que%20no%20estaba%20calificado%20hasta%20que%20los%20resolvi%C3%B3.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
