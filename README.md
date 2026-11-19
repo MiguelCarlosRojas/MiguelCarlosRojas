@@ -204,11 +204,13 @@ Hi there! 👋 I'm [Miguel A. Carlos Rojas](https://www.linkedin.com/in/miguelac
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Guido%20van%20Rossum&quote=Code%20is%20read%20much%20more%20often%20than%20it%20is%20written.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=An%C3%B3nimo&quote=Los%20grandes%20desarrolladores%20son%20grandes%20porque%20resuelven%20problemas%2C%20no%20porque%20escriben%20c%C3%B3digo.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
